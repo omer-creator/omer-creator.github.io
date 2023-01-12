@@ -1,0 +1,33 @@
+@media (min-width: 800px) {
+  /** section **/
+  section {
+    width: 85%;
+    margin: auto;
+  }
+
+  /** first illustration **/
+  .main-bg-headline {
+    background-image: url("../img/desktop/main-bg-headline.png");
+    background-position-y: 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  /** headline section **/
+  .Head-Line {
+    height: 1000px;
+  }
+
+  .headline-sub-text {
+    width: 920px;
+  }
+
+  .display-on-mobile {
+    display: none;
+  }
+
+  .display-on-desktop {
+    display: unset;
+    padding-bottom: 250px;
+  }
+}
