@@ -1,6 +1,6 @@
 .main-bg-headline {
   background-image: url("../img/main-bg-headline.png");
-  background-position: center;
+  background-position-y: 60px;
   background-repeat: no-repeat;
   background-size: contain;
 }
