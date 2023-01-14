@@ -1,15 +1,17 @@
-.text-color {
+/* Colors */
+.text-color-1 {
   color: #172b4d;
 }
 
-.subtext-color {
+.green-text-main {
   color: #36b37f;
 }
 
-.welcome-text {
-  color: #28352f;
+.mobile-header-color {
+  color: #12422c;
 }
 
-.nav-text-links {
-  color: #002e7c;
+.nav-links-color {
+  color: #344563;
 }
+

@@ -4,6 +4,14 @@ body {
   margin-right: 0;
 }
 
+.on-desktop-display {
+  display: none;
+}
+
+.on-mobile-display {
+  display: unset;
+}
+
 .no-margin-bottom {
   margin-bottom: 0;
 }
@@ -11,7 +19,6 @@ body {
 .no-margin-top {
   margin-top: 0;
 }
-
 section {
   width: 100%;
   margin: auto;

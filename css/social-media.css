@@ -1,4 +1,4 @@
-.social-platform {
+.social-media-list {
   display: flex;
   gap: 20px;
   padding: 0;
@@ -6,6 +6,6 @@
   list-style-type: none;
 }
 
-.social-platform > li {
+.social-media-list > li {
   display: inline;
 }

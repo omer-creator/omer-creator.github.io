@@ -1,19 +1,19 @@
 .main-bg-headline {
   background-image: url("../img/main-bg-headline.png");
-  background-position-y: 61px;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
-.first-page-headline {
+.main-headline {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-top: 31px;
-  padding-bottom: 41px;
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
 
-.sub-headline {
+.main-subtext-headline {
   display: flex;
   justify-content: center;
 }
@@ -21,21 +21,21 @@
 .h2 {
   font-family: Inter, sans-serif;
   font-style: normal;
-  font-weight: 701;
-  font-size: 41px;
-  line-height: 53px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
   text-align: center;
 }
 
 .p {
   font-family: Inter, sans-serif;
   font-style: normal;
-  font-weight: 401;
-  font-size: 21px;
+  font-weight: 400;
+  font-size: 20px;
   margin: 0;
   text-align: center;
 }
 
-.headline-sub-text {
-  width: 328px;
+.main-subtext-headlin-width {
+  width: 327px;
 }

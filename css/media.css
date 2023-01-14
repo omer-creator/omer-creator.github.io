@@ -1,11 +1,9 @@
 @media (min-width: 800px) {
-  /** section **/
   section {
     width: 85%;
     margin: auto;
   }
 
-  /** first illustration **/
   .main-bg-headline {
     background-image: url("../img/desktop/main-bg-headline.png");
     background-position-y: 0;
@@ -13,20 +11,26 @@
     background-size: contain;
   }
 
-  /** headline section **/
   .Head-Line {
     height: 1000px;
   }
 
-  .headline-sub-text {
+  .main-subtext-headlin-width {
     width: 920px;
   }
 
-  .display-on-mobile {
+  .h1-work {
+    width: 100%;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+  }
+
+  .on-mobile-display {
     display: none;
   }
 
-  .display-on-desktop {
+  .on-desktop-display {
     display: unset;
     padding-bottom: 250px;
   }
