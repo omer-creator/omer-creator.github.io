@@ -6,7 +6,7 @@
   gap: 10px;
   border: none;
   border-radius: 4px;
-  transition : transform 200ms ease-in-out;
+  transition: transform 200ms ease-in-out;
 }
 
 .btn-success:hover {
