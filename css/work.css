@@ -44,6 +44,12 @@
 
 .gray-content-height {
   height: 250px;
+  transition: transform 200ms ease-in-out;
+}
+
+.gray-content-height:hover {
+  transform: scale(1.2);
+  border-radius: 10px;
 }
 
 .work-title {
