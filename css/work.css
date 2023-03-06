@@ -44,7 +44,13 @@
 
 .gray-content-height {
   height: 250px;
+  transition: transform 330ms ease-in-out;
 }
+
+.gray-content-height:hover {
+  transform: scale(1.2);
+}
+
 
 .work-title {
   font-family: "Inter", sans-serif;
